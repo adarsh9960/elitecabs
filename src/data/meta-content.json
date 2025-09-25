@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "charset": "UTF-8",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "formatDetection": {
+      "telephone": "yes",
+      "date": "yes",
+      "address": "yes",
+      "email": "yes"
+    },
+    "themeColor": "#facc15",
+    "msapplicationTileColor": "#facc15",
+    "msapplicationConfig": "/browserconfig.xml"
+  },
+  "links": {
+    "canonical": "https://elitecabmumbai.com",
+    "preconnect": [
+      "https://fonts.googleapis.com",
+      "https://fonts.gstatic.com"
+    ],
+    "dnsPrefetch": [
+      "//fonts.googleapis.com",
+      "//fonts.gstatic.com"
+    ]
+  },
+  "verification": {
+    "googleSiteVerification": "",
+    "msvalidate": "",
+    "yandexVerification": "",
+    "facebookDomainVerification": ""
+  },
+  "security": {
+    "referrer": "strict-origin-when-cross-origin",
+    "contentSecurityPolicy": "default-src 'self' https: data: 'unsafe-inline' 'unsafe-eval'"
+  }
+}

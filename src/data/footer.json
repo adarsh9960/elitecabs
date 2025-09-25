@@ -1,0 +1,33 @@
+{
+  "footer": {
+    "companyDescription": "Elite Cabs 24X7 is Mumbai's premier taxi service provider, offering reliable, comfortable, and affordable transportation solutions 24 hours a day.",
+    "sections": {
+      "companyInfo": {
+        "title": "Company Info"
+      },
+      "quickLinks": {
+        "title": "Quick Links"
+      },
+      "contactInfo": {
+        "title": "Contact Info"
+      },
+      "rating": {
+        "title": "Customer Rating"
+      }
+    },
+    "newsletter": {
+      "title": "Newsletter",
+      "placeholder": "Your email",
+      "buttonText": "Subscribe"
+    },
+    "bottomBar": {
+      "designer": {
+        "name": "ITZ Adarsh",
+        "url": "https://itzadarsh.co.in/"
+      }
+    },
+    "socialMedia": {
+      "youtube": "#"
+    }
+  }
+}

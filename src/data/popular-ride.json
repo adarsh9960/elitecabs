@@ -1,0 +1,23 @@
+{
+  "popularRide": {
+    "title": "Popular Ride With Us",
+    "subtitle": "Trusted by leading hotels and businesses across Mumbai for reliable transportation services",
+    "features": [
+      {
+        "id": 1,
+        "text": "24X7 Service",
+        "icon": "check"
+      },
+      {
+        "id": 2,
+        "text": "Professional Drivers",
+        "icon": "check"
+      },
+      {
+        "id": 3,
+        "text": "Premium Fleet",
+        "icon": "check"
+      }
+    ]
+  }
+}
