@@ -277,7 +277,7 @@ export default function RootLayout({
         
         {/* Security meta tags */}
         <meta name="referrer" content={metaContent.security.referrer} />
-        <meta name="google-site-verification" content="N266r9rphwJGY7t5VkZeNdQfCl4LMvvekFGMYtr_w3g" />
+        <meta name="google-site-verification" content="xiZ2jypV_3eoxtsouKEWUHJNaoQHQ1urHT16j9Pkr1s" />
         
         {/* Additional verification meta tags */}
         {metaContent.verification.msvalidate && (
