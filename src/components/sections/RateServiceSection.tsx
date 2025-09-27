@@ -195,7 +195,7 @@ export default function RateServiceSection({ onSubmit, currentRating }: RateServ
                   </span>
                   </div>
                 <p className="text-sm text-muted-foreground">
-                  Based on {currentRating.count.toLocaleString()} ratings
+                  
                 </p>
               </div>
                 
