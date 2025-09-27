@@ -193,6 +193,11 @@ export default function RateServiceSection({ onSubmit, currentRating }: RateServ
                   <span className="text-xl font-semibold text-primary">
                     {currentRating.average.toFixed(1)}
                   </span>
+                  </div>
+                <p className="text-sm text-muted-foreground">
+                  Based on {currentRating.count.toLocaleString()} ratings
+                </p>
+              </div>
                 
             )}
 
