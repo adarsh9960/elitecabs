@@ -128,7 +128,7 @@ export default function Footer({ rating }: FooterProps) {
                 <span className="text-sm font-medium">{rating.average.toFixed(1)}</span>
               </div>
               <p className="text-sm opacity-90">
-                Based on {rating.count.toLocaleString()} ratings
+                
               </p>
               <div className="mt-3">
                 <Link
