@@ -93,7 +93,7 @@ export default function RateServiceSection({ onSubmit, currentRating }: RateServ
 
   const shareRating = () => {
     const url = window.location.href;
-    const text = `Rate Elite Cabs 24X7 - ${currentRating?.average.toFixed(1)}/5 stars`;
+    const text = `Rate Elite Cabs 24X7`;
     
     if (navigator.share) {
       navigator.share({
