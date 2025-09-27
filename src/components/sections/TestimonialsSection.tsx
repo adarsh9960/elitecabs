@@ -155,10 +155,7 @@ export default function TestimonialsSection({
                         {testimonial.comment}
                       </p>
                       <p className="text-sm text-muted-foreground">
-                        {new Date(testimonial.date).toLocaleDateString('en-US', {
-                          year: 'numeric',
-                          month: 'long',
-                          day: 'numeric',
+                        
                         })}
                       </p>
                     </div>
