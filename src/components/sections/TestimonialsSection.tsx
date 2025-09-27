@@ -156,7 +156,7 @@ export default function TestimonialsSection({
                       </p>
                       <p className="text-sm text-muted-foreground">
                         
-                        })}
+                       
                       </p>
                     </div>
                   </div>
