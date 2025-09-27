@@ -34,7 +34,7 @@ export default function WhyChooseUsSection({ features }: WhyChooseUsSectionProps
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-            Why Choose Elite Cabs 24X7
+            Check services of Elite Cabs 24X7
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             We stand out from the competition with our commitment to excellence and customer satisfaction
@@ -80,7 +80,7 @@ export default function WhyChooseUsSection({ features }: WhyChooseUsSectionProps
               <div className="grid md:grid-cols-3 gap-6 text-center">
                 <div>
                   <div className="text-3xl font-bold text-red-600 mb-2">60K+</div>
-                  <p className="text-muted-foreground text-sm">clients</p>
+                  <p className="text-muted-foreground text-sm">Users</p>
                 </div>
                 <div>
                   <div className="text-3xl font-bold text-red-600 mb-2">175+</div>
